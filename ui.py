@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from bs4 import BeautifulSoup
 import requests
-
+#proovime changes
 class ToidupoodRakendus:
     def __init__(self, root):
         self.root = root
