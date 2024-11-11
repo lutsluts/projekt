@@ -2,7 +2,8 @@ import tkinter as tk
 from tkinter import messagebox
 from bs4 import BeautifulSoup
 import requests
-
+#tere jälle
+#tervist jah
 class ToidupoodRakendus:
     def __init__(self, root):
         self.root = root
